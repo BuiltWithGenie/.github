@@ -4,3 +4,4 @@
 - [German credits](https://github.com/GenieAwesome/GermanCredits)
 - [Lorenz equations](https://github.com/GenieAwesome/LorenzEquations)
 - [Travelling salesman](https://github.com/GenieAwesome/TravellingSalesman)
+- [Boston Data Explore](https://github.com/BuiltWithGenie/BostonDataExplorer) (Multiple Tabs)
