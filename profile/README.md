@@ -1,4 +1,6 @@
 ## Genie demo apps
+See the [Genie app gallery](https://learn.genieframework.com/app-gallery) for the full list.
+
 - [Histogram](https://github.com/GenieAwesome/Histogram): generate a random vector and plot a histogram
 - [Iris clustering](https://github.com/GenieAwesome/IrisClustering): plots, table, parameterization of the k-means clustering algorithm
 - [German credits](https://github.com/GenieAwesome/GermanCredits): dashboard with plots, tables, badges and data filtering
