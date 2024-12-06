@@ -1,38 +1,29 @@
 ## Genie demo apps
-See the [Genie app gallery](https://learn.genieframework.com/app-gallery) for the full list.
+**Genie Builder users**: any app with the UI implemented in html (usually `app.jl.html`) can be directly opened in Genie Builder.
+ 
+See the [Genie app gallery](https://learn.genieframework.com/app-gallery) for the full list with screenshots.
 
-- [Histogram](https://github.com/GenieAwesome/Histogram): generate a random vector and plot a histogram
-- [Iris clustering](https://github.com/GenieAwesome/IrisClustering): plots, table, parameterization of the k-means clustering algorithm
-- [German credits](https://github.com/GenieAwesome/GermanCredits): dashboard with plots, tables, badges and data filtering
-- [Lorenz equations](https://github.com/GenieAwesome/LorenzEquations): real-time simulation of differential equations
-- [Travelling salesman](https://github.com/GenieAwesome/TravellingSalesman): interactive map using JuMP to calculate optimal path
+- [Genie Builder tutorial](https://github.com/BuiltWithGenie/GenieBuilderTutorial): app explaining how to build apps with Genie Builder
+- [Histogram](https://github.com/BuiltWithGenie/Histogram): generate a random vector and plot a histogram
+- [Iris clustering](https://github.com/BuiltWithGenie/IrisClustering): plots, table, parameterization of the k-means clustering algorithm
+- [German credits](https://github.com/BuiltWithGenie/GermanCredits): dashboard with plots, tables, badges and data filtering
+- [Lorenz equations](https://github.com/BuiltWithGenie/LorenzEquations): real-time simulation of differential equations
+- [Travelling salesman](https://github.com/BuiltWithGenie/TravellingSalesman): interactive map using JuMP to calculate optimal path
 - [Boston Data Explore](https://github.com/BuiltWithGenie/BostonDataExplorer): multiple tabs
 - [Neural network training](https://github.com/BuiltWithGenie/NNtraining): dashboard to control the training of a neural network
 - [Whisper](https://github.com/BuiltWithGenie/Whisper): transcribe a Youtube video with Whisper
 - [CSV uploader](https://github.com/BuiltWithGenie/CSVUploader): upload a CSV file and plot a histogram from its columns
 - [Multi page app](https://github.com/BuiltWithGenie/MultiPageApp): multi-page app with pages for data exploration, neural network training, and a REST API
-
-- [Code Examples](https://github.com/BuiltWithGenie/CodeExamples): short snippets of code on how to implement various features
-
-## License
-
-The MIT License (MIT)
-
-Copyright (c) 2016-2019 [Adrian Salceanu](https://www.linkedin.com/in/adriansalceanu/) and [Genie.jl Contributors](https://github.com/GenieFramework/Genie.jl/graphs/contributors)
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+- [Robot arm controller](https://github.com/BuiltWithGenie/RobotArmController): interactive dashboard for controlling a robot arm with live data visualization
+- [Documentation AI chat](https://github.com/BuiltWithGenie/PkgAIHelp): ask questions about installed Julia packages documentation using LLM and RAG
+- [US soil measurements](https://github.com/BuiltWithGenie/SoilMeasurements): visualize soil measurements across the US from a 2GB dataset
+- [Dynamic system simulation](https://github.com/BuiltWithGenie/SimulationDashboard): simulation of MPPT controller for solar panel battery charging optimization
+- [Insurance data analysis](https://github.com/BuiltWithGenie/InsuranceAnalysis): browse and filter insurance data with plots and tables
+- [Stock inspector](https://github.com/BuiltWithGenie/StockInspector): get price data, trend plots, and news for US market stocks
+- [Todo list](https://github.com/BuiltWithGenie/GenieTodo): simple todo list showcasing Genie's low-code features
+- [Cellular Potts Model](https://github.com/BuiltWithGenie/CellPotts): visualize cell migration and division using the cellular Potts model
+- [Weather data forecast](https://github.com/BuiltWithGenie/SeriesForecast): train a neural ODE for weather data forecasting
+- [World map](https://github.com/BuiltWithGenie/Map): display data on a world map with configurable markers
+- [MRI classifier](https://github.com/BuiltWithGenie/MRIClassifier): detect tumors in brain MRI images using neural networks
+- [BERT embeddings](https://github.com/BuiltWithGenie/BERTEmbeddings): explore semantic relationships using the BERT model from Huggingface
+- [Julia Pkg downloads]([https://example.com/pkg-stats](https://github.com/GenieFramework/PkgVizBoard)): visualize download trends of Julia packages
